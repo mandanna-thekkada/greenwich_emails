@@ -28,5 +28,7 @@ public class CheckEmails
 
 		System.out.println(fullEmailsInGmailFormat);
 		System.out.println(fullEmailArr.length);
+		System.out.println(formerPlayersEmailList);
+
 	}
 }
